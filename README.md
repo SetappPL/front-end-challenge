@@ -59,4 +59,4 @@ Please choose one of the following routes:
 **TASKS**
 + Use a language that compiles to JavaScript (CoffeeScript, TypeScript, etc...)
 + Surprise us! Add a feature that you think would work well here 
-+ Show us your work through your commit history!
++ Show us your work through your commit history (don't squash)!
