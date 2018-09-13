@@ -50,7 +50,7 @@ Please choose one of the following routes:
 * All of the base, novice, and intermediate requirements
 + Allow the top 100 to be searchable 
 + Allow the user to see more information about a selected Album
-+ Host the website on the service of your choice (We enjoy cloud hosting like Azure or AWS, but we would also settle for a *.github.io address)
++ Host the website on the service of your choice (We enjoy cloud hosting like Azure or AWS, but we would also settle for [Github Pages](https://pages.github.com/))
 
 
 -------
