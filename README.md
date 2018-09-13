@@ -1,7 +1,7 @@
 Front End Challenge
 ====================
 
-This is a coding challenge to assess your qualifications as a potential front-end. This is by no means a test. We just want to get a sense of how you write code and solve problems.
+This is a coding challenge to assess your qualifications as a potential front-end developer. This is by no means a test. We just want to get a sense of how you write code and solve problems.
 
 You can choose your own path that reflects your technical skills along the way. Spend as little or as much time as you would like to complete your chosen path. 
 
