@@ -15,7 +15,7 @@ Imagine, one of our clients is branching into the music business and need a new 
 - A clean modern look
 - Clean, readable, maintainable codebase
 - Source code on Github
-- Cross browser support (or graceful degradation) 
+- Cross browser support (or graceful degradation) in newest Chrome, Safari, Firefox and Edge (if you don't have either safari or edge that's fine)
 - Responsive design and implementation
 - A good user experience
 
